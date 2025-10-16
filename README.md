@@ -9,7 +9,7 @@
 - **전체 벡터화 처리**
 
 
-## 프로젝트2: 회전 후 포물선 운동하는 팽이
+## 프로젝트2: 회전하면서 포물선 운동하는 팽이
 <img width="274" height="218" alt="image" src="https://github.com/user-attachments/assets/e59766d8-80b1-4efa-b739-b8f23352c2fc" />
 
 ## 개요
