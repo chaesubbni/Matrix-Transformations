@@ -1,4 +1,4 @@
-# Matrix-Vectorization3
+# Matrix-Transformations
 
 ## 프로젝트1: 화면 중심을 원으로 회전하며 점점 커지는 ‘M’
 <img width="335" height="252" alt="image" src="https://github.com/user-attachments/assets/f165aee9-cfbe-47ab-b1b7-1dc23dab1686" />
